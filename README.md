@@ -26,6 +26,7 @@ Admin sayfaları, hem web hem de mobil için ayrı ayrı tasarlandı.
 https://www.figma.com/design/bp8DdwiqihCnOJ3NJgW493/sf?node-id=0-1&m=dev&t=Ks1b11kmo3RXnBsA-1
 
 -Stil Paylaşım Platformu
+
 Bu projede, stilistlerin ve kullanıcıların etkileşime geçtiği bir web uygulaması tasarladık.
 
 Özellikler
